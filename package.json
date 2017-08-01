@@ -1,0 +1,16 @@
+{
+  "name": "vega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebmauk/vega.git"
+  },
+  "author": "Caleb Mauk",
+  "homepage": "https://github.com/calebmauk/vega#readme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebmauk/vega/issues"
+  }
+}
